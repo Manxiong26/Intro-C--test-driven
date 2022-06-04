@@ -1,0 +1,15 @@
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/bin/Debug/net6.0/Intro-C--test-driven
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/bin/Debug/net6.0/Intro-C--test-driven.deps.json
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/bin/Debug/net6.0/Intro-C--test-driven.runtimeconfig.json
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/bin/Debug/net6.0/Intro-C--test-driven.dll
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/bin/Debug/net6.0/Intro-C--test-driven.pdb
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.csproj.AssemblyReference.cache
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.AssemblyInfoInputs.cache
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.AssemblyInfo.cs
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.csproj.CoreCompileInputs.cache
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.dll
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/refint/Intro-C--test-driven.dll
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.pdb
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/Intro-C--test-driven.genruntimeconfig.cache
+/Users/maneenaxiong/Desktop/Computer_Docs/Intro-C--test-driven/obj/Debug/net6.0/ref/Intro-C--test-driven.dll
